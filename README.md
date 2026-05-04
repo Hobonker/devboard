@@ -4,7 +4,8 @@
 I've never done such a large and complex custom PCB before, so I wanted to learn how to
 
 
-
+# PCB
+![Screenshot 2026-05-03 at 10.16.09 PM](https://stasis.hackclub-assets.com/images/1777860987971-8zamko.png)
 
 # bom
 | Top Designator | Total Price ($) | Product Link |
