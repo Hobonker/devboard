@@ -1,8 +1,7 @@
 # Devboard
 
 # Inspiration 
-I've never done such a large and complex custom PCB before, so I wanted to learn how to. I learned a lot about wiring and it was challenging.
-
+I've never done such a large and complex custom PCB before, so I wanted to learn how to. The project helped me learn a lot about wiring and challenged me.
 # What is it?
 It's a custom PCB using an rp2040 and combining it with a lot of useful parts to control data input and output and has flash storage.
 
