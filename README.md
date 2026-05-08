@@ -6,6 +6,10 @@ I've never done such a large and complex custom PCB before, so I wanted to learn
 
 # PCB
 ![Screenshot 2026-05-03 at 10.16.09 PM](https://stasis.hackclub-assets.com/images/1777860987971-8zamko.png)
+<img width="956" height="657" alt="Screenshot 2026-05-07 at 10 12 39 PM" src="https://github.com/user-attachments/assets/2c151e70-a302-48b0-a317-e6a371f9fb79" />
+<img width="668" height="458" alt="Screenshot 2026-05-07 at 10 13 23 PM" src="https://github.com/user-attachments/assets/46765cd5-b759-40d1-b13f-3e61a0078e46" />
+
+
 
 # bom
 | Top Designator | Total Price ($) | Product Link |
