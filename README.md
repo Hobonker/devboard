@@ -1,17 +1,20 @@
-# devboard
+# Devboard
 
-# inspiration 
-I've never done such a large and complex custom PCB before, so I wanted to learn how to
+# Inspiration 
+I've never done such a large and complex custom PCB before, so I wanted to learn how to. I learned a lot about wiring and it was challenging.
 
+# What is it?
+It's a custom PCB using an rp2040 and combining it with a lot of useful parts to control data input and output and has flash storage.
 
 # PCB
+Here are some images of the board
 ![Screenshot 2026-05-03 at 10.16.09 PM](https://stasis.hackclub-assets.com/images/1777860987971-8zamko.png)
 <img width="956" height="657" alt="Screenshot 2026-05-07 at 10 12 39 PM" src="https://github.com/user-attachments/assets/2c151e70-a302-48b0-a317-e6a371f9fb79" />
 <img width="668" height="458" alt="Screenshot 2026-05-07 at 10 13 23 PM" src="https://github.com/user-attachments/assets/46765cd5-b759-40d1-b13f-3e61a0078e46" />
 
 
 
-# bom
+# Bom
 | Top Designator | Total Price ($) | Product Link |
 |----------------|----------------|--------------|
 | C1, C10 | 0.029 | https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923 |
