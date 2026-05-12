@@ -3,7 +3,7 @@
 # Inspiration 
 I've never done such a large and complex custom PCB before, so I wanted to learn how to. The project helped me learn a lot about wiring and challenged me.
 # What is it?
-It's a custom PCB using an rp2040 and combining it with a lot of useful parts to control data input and output and has flash storage.
+It's a custom PCB using an rp2040. Some other features are flash memory, USB-C power input, 12MHz crystal oscillator and a MCP1700 LDO voltage regulator.
 
 # PCB
 Here are some images of the board
